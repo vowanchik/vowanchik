@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vowanchik
 - 👀 I’m interested in backend developement
-- 🌱 I’m currently learning NodeJS and SQL
+- 🌱 I’m currently learning C# and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Telegram: @vowanchik Email: vowa.rozhnov@yandex.ru
 
